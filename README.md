@@ -1,5 +1,5 @@
 # BlogWeb
-Asp.Net ile yapmış olduğum bir blog sitesidir. DataSet kullanılarak hazırlandı. http://www.hasanvarolcv.somee.com/ adresinden erişebilirsiniz. Admin panelli bir cv sitesi olmuştur. Sidebar kısmında her bir bölüm için ekleme güncelleme ve bazı bölümle için silme işlemi sağlanabilecek şekilde admin paneli oluşturuldu. MS SQL Server kullanıldı.
+Asp.Net ile yapmış olduğum bir blog sitesidir. DataSet kullanılarak hazırlandı. Admin panelli bir cv sitesi olmuştur. Sidebar kısmında her bir bölüm için ekleme güncelleme ve bazı bölümle için silme işlemi sağlanabilecek şekilde admin paneli oluşturuldu. MS SQL Server kullanıldı.
 
 
 ![Ekran Görüntüsü (1455)](https://user-images.githubusercontent.com/100023946/192105892-df053929-1f5c-4a9d-adf6-0eca5f1845c3.png)
